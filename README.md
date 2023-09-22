@@ -4,7 +4,6 @@
   <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
   linkedin.com/in/aleya-nur-mohol-siddika
 </a>
-<br />
 
 <a href="https://www.hackerrank.com/aleyasiddika01">
   <img align="left" alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
@@ -12,7 +11,6 @@
 </a>
 <br />
 
-### About Me
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Aleya Nur Mohol Siddika, 
 Curious learner and tech enthusiast with more than 5 years of experience in delivering splendid app development and troubleshooting. An excellent team player with a positive attitude towards organizational goals.
 
