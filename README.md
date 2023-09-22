@@ -1,10 +1,15 @@
 # Aleya Nur Mohol Siddika
 ## Software Engineer
-<a >
   <img align="left" alt="Address" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHm-wA8JAt5a5iy42rSMqQ-t5xeMrFKdpWWSR5V1uDXcIE0hBr1OT2z6UW6s5ypF5BYEc&usqp=CAU" />
   Oulu, Finland  
-</a>
 <br/>
+
+<a href="mailto:aleyasiddika01@gmail.com ">
+  <img align="left" alt="gmail" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/Gmail_Icon.png" />
+   aleyasiddika01@gmail.com 
+</a>
+<br />
+
 <a href="https://www.linkedin.com/in/aleya-nur-mohol-siddika">
   <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
   linkedin.com/in/aleya-nur-mohol-siddika
@@ -13,15 +18,10 @@
 
 <a href="https://www.hackerrank.com/aleyasiddika01">
   <img align="left" alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
-  HackerRank Profile of Aleya 
+  HackerRank Profile
 </a>
 <br />
 
-<a href="mailto:aleyasiddika01@gmail.com ">
-  <img align="left" alt="gmail" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/Gmail_Icon.png" />
-   aleyasiddika01@gmail.com 
-</a>
-<br />
 
 
 ### About Me:
