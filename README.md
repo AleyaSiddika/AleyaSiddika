@@ -79,12 +79,12 @@ Curious learner and tech enthusiast with more than 5 years of experience in deli
 
 ### Most Used Languages
 
-<p align="center"> <img alt="Aleya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleyaSiddika&show_icons=true&theme=midnight-purple" alt="AleyaSiddika languages" />
+<p align="center"> <img alt="Aleya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleyaSiddika&show_icons=true&theme=transparent" alt="AleyaSiddika languages" />
  </p>
 
 ### GitHub Stats from public repo
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AleyaSiddika&rank_icon=github&show_icons=true&theme=midnight-purple" alt="AleyaSiddika Statistics" /></p>
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AleyaSiddika&rank_icon=github&show_icons=true&theme=transparent" alt="AleyaSiddika Statistics" /></p>
 
 ### Professional Experience
 
