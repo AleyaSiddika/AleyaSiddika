@@ -1,5 +1,3 @@
-# Aleya Nur Mohol Siddika
-
 ## Software Engineer ( Oulu, Finland )
 
 <a href="https://www.linkedin.com/in/aleya-nur-mohol-siddika">
@@ -15,7 +13,7 @@
 <br />
 
 ### About Me
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" > Hi, I'm Aleya Nur Mohol Siddika, 
 Curious learner and tech enthusiast with more than 5 years of experience in delivering splendid app development and troubleshooting. An excellent team player with a positive attitude towards organizational goals.
 
 - 🌱 Currently learning various design pattern and system architecture.
