@@ -1,12 +1,12 @@
 ## Software Engineer ( Oulu, Finland )
 
 <a href="https://www.linkedin.com/in/aleya-nur-mohol-siddika">
-  <img align="left" alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
+  <img  alt="Ahsan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/b27a16ea650fb3c86b48139bda66f2852c8da70b/assets/linkedin.svg" />
   linkedin.com/in/aleya-nur-mohol-siddika
 </a>
 
 <a href="https://www.hackerrank.com/aleyasiddika01">
-  <img align="left" alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
+  <img  alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
   HackerRank Profile
 </a>
 <br />
