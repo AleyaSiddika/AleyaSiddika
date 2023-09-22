@@ -16,11 +16,6 @@
 </a>
 <br />
 
-<a href="https://www.hackerrank.com/aleyasiddika01">
-  <img align="left" alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
-  HackerRank Profile
-</a>
-<br />
 
 
 
