@@ -10,11 +10,14 @@
   linkedin.com/in/aleya-nur-mohol-siddika
 </a>
 <br />
+
 <a href="https://www.hackerrank.com/aleyasiddika01">
   <img align="left" alt="HR" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/220px-HackerRank_Icon-1000px.png" />
   HackerRank Profile
 </a>
 <br />
+
+
 <a href="mailto:aleyasiddika01@gmail.com ">
   <img align="left" alt="gmail" width="22px" src="https://raw.githubusercontent.com/ahsaan-habib/ahsaan-habib/main/assets/Gmail_Icon.png" />
    aleyasiddika01@gmail.com 
