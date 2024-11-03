@@ -121,7 +121,8 @@ _Trainer_ || July 2018 – November 2018
 
 - **Studying MSc in Software Engineering and Information Systems**
 
-  - **Duration:** from September, 2023
+  - **Duration:** 2023-2024
+  - **CGPA:** 4.08 out of 5
   - University of Oulu-Finland
 
 - **BSc in Software Engineering**
