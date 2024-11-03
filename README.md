@@ -119,7 +119,7 @@ _Trainer_ || July 2018 – November 2018
 
 ### Academic Background
 
-- **Studying MSc in Software Engineering and Information Systems**
+- **Studied MSc in Software Engineering and Information Systems**
 
   - **Duration:** 2023-2024
   - **CGPA:** 4.08 out of 5
